@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Isaac Choi</h1>
-<h3 align="center">I am a Full Stack Software Engineer</h3>
-
 
 - 🔭 I’m currently **Looking for work opportunities**
 
